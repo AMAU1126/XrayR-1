@@ -64,7 +64,7 @@ A Xray backend framework that can easily support many panels.
 ### 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/XrayRR/XrayR-script/master/install.sh && bash install.sh
+bash <(curl -Ls https://raw.githubusercontents.com/XrayRR/XrayR-script/master/install.sh)
 ```
 
 ### 使用Docker部署
@@ -95,7 +95,3 @@ wget -N https://raw.githubusercontents.com/XrayRR/XrayR-script/master/install.sh
 [XrayR后端讨论](https://t.me/XrayR_project)
 
 [XrayR通知](https://t.me/XrayR_channel)
-
-## Stars 增长记录
-
-[![Stargazers over time](https://starchart.cc/XrayRR/XrayR.svg)](https://starchart.cc/XrayRR/XrayR)
